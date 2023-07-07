@@ -4,5 +4,6 @@ export class Avion {
     npasajeros:string;
     //hola
     //como estan
+    // muy buenas inge
 }
 
