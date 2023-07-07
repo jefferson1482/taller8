@@ -3,5 +3,6 @@ export class Avion {
     descripcion:string;
     npasajeros:string;
     //hola
+    //como estan
 }
 
