@@ -1,0 +1,5 @@
+node_modules
+.docckerignore
+Dockerfile
+dist
+.README.md
